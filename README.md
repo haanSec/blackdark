@@ -1,5 +1,5 @@
 # BLACKDARK v1.8<br>
-USERNAME: haan87 PASSWORD: 2019<br>
+<br>
 CARA INSTALL<br>
 $ pkg update<br>
 
