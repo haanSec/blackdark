@@ -1,4 +1,4 @@
-# BLACKDARK v1.8<br>
+# BLACKDARK v1.6<br>
 <br>
 CARA INSTALL<br>
 $ pkg update<br>
